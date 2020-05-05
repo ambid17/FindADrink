@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindADrink", "FindADrink\FindADrink.csproj", "{18FC1200-CEAC-4732-8082-0D9C2FC5AAA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindADrink", "FindADrink\FindADrink.csproj", "{41B8F899-8797-4216-AE3E-25E59220D0A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18FC1200-CEAC-4732-8082-0D9C2FC5AAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18FC1200-CEAC-4732-8082-0D9C2FC5AAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18FC1200-CEAC-4732-8082-0D9C2FC5AAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18FC1200-CEAC-4732-8082-0D9C2FC5AAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B8F899-8797-4216-AE3E-25E59220D0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B8F899-8797-4216-AE3E-25E59220D0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B8F899-8797-4216-AE3E-25E59220D0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B8F899-8797-4216-AE3E-25E59220D0A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {601B7DB1-FA3B-4B7C-BC8C-AD3C7B25C999}
+		SolutionGuid = {F628A980-8109-4B15-A0F6-081352AD9B27}
 	EndGlobalSection
 EndGlobal
