@@ -40,6 +40,8 @@ namespace FindADrink
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
+
+            // Allows web server to serve files directly from wwwroot
             app.UseStaticFiles();
 
             app.UseRouting();
